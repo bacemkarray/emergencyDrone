@@ -3,8 +3,8 @@
 #include <Arduino.h>
 
 // WiFi credentials
-const char* ssid = "Galaxy A02se485";
-const char* password = "mfrw6719";
+const char* ssid = "enterwifissd";
+const char* password = "enterwifipassword";
 
 // HTTP server
 WebServer server(80);
