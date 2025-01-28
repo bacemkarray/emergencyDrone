@@ -1,1 +1,1 @@
-![Alt Text]("cat.png")
+![Cute Cat](cat.png "A Cute Cat")
